@@ -520,3 +520,8 @@ table.files tr.navigation-focus td {
 :-ms-input-placeholder {
     color: #fff;
 }
+.blankslate{
+    background-color: #3f4142;
+    color: #fff;
+    border-color: #666;
+}
